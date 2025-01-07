@@ -3,6 +3,14 @@ This repository contains the implementation of a recommender system developed as
 
 ---
 
+# Nutrition-aware Food Recommender Engine
+
+## Project Overview
+
+This project is a **hybrid food recommendation system** that combines **content-based filtering** (nutritional and ingredient similarity) and **collaborative filtering** (user ratings) to provide personalized and nutrition-aware recipe recommendations. The system helps users discover recipes that align with their dietary preferences and nutritional needs.
+
+---
+
 ## Datasets
 The following datasets were used in this project:
 
