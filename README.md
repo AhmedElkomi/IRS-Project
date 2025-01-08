@@ -4,7 +4,7 @@
 
 This project is a **hybrid food recommendation system** that combines **content-based filtering** (nutritional and ingredient similarity) and **collaborative filtering** (user ratings) to provide personalized and nutrition-aware recipe recommendations. The system helps users discover recipes that align with their dietary preferences and nutritional needs.
 
----
+--- 
 
 ## Features
 
